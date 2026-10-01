@@ -1,0 +1,4 @@
+risk,likelihood_1_5,impact_1_5,control,owner,due,verification
+Fraudulent supplier payment,,,Independent callback + dual approval,,,
+Compromised finance identity,,,Revoke sessions + reset from clean device,,,
+Malware spread,,,Isolate endpoint + investigate scope,,,

@@ -1,0 +1,359 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 5308
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7 Tf 8.4 TL ET
+.372549 .419608 .478431 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (C506 \177 v1.0) Tj T* ET
+BT 1 0 0 1 522.069 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.043137 .145098 .270588 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Lab-07 Checklist) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 755.5354 cm
+Q
+q
+1 0 0 1 57.02362 731.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Before) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 722.5354 cm
+Q
+q
+1 0 0 1 57.02362 704.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 704.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] I am using only supplied mock data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 686.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 686.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] I confirmed the tool URL and training scope.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 668.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 668.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] I will stop if the environment differs from the instructions.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 660.5354 cm
+Q
+q
+1 0 0 1 57.02362 636.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (During) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 627.5354 cm
+Q
+q
+1 0 0 1 57.02362 609.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 609.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Step 1: Group the mock assets by trust level, data sensitivity and operational role.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 591.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 591.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Step 2: Use the IP Calculator to create non-overlapping training subnets sized for each group.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 573.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 573.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Step 3: Record network address, usable host range, broadcast address and proposed gateway for each zone.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 543.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 14.8 Tm /F1 9.2 Tf 12 TL ([ ] Step 4: Draw allowed flows and deny-by-default boundaries between staff, guest, point-of-sale and management) Tj T* (networks.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 513.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 16 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 513.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 14.8 Tm /F1 9.2 Tf 12 TL ([ ] Step 5: Identify which services, if any, need internet exposure and add a monitoring or access-control) Tj T* (requirement.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 495.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 495.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Step 6: Review the design for excessive trust and document one residual risk.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 487.5354 cm
+Q
+q
+1 0 0 1 57.02362 463.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Before submission) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 454.5354 cm
+Q
+q
+1 0 0 1 57.02362 436.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 436.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Subnet plan) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 418.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 418.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Asset-to-zone mapping) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 400.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 400.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Allowed-flow matrix) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 382.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 382.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Exposure decisions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 364.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 364.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Residual risk) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 346.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 346.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] Screenshots are redacted and contain no real personal or secret data.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 328.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 328.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL ([ ] My conclusion distinguishes fact from inference.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260820215944\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260820215944\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (CHECKLIST)
+/Trapped /False
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000341 00000 n 
+0000005701 00000 n 
+0000005742 00000 n 
+0000005849 00000 n 
+0000005961 00000 n 
+trailer
+<<
+/Size 9
+/Root 1 0 R
+/Info 8 0 R
+/ID [ <d330692f5248d23c71d45906d0947a32> <d330692f5248d23c71d45906d0947a32> ]
+>>
+startxref
+6277
+%%EOF

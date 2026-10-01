@@ -1,0 +1,6 @@
+time,source,destination,protocol,observation
+10:00:00,10.20.30.25,10.20.30.53,DNS,Query updates-example.test
+10:00:03,10.20.30.25,198.51.100.77,UDP/443,Repeated synthetic beacon
+10:00:06,10.20.30.25,198.51.100.77,UDP/443,Repeated synthetic beacon
+10:00:09,10.20.30.10,10.20.30.25,UDP/514,Mock log forward
+10:00:12,10.20.30.25,203.0.113.44,UDP/8080,Cleartext demo token

@@ -1,0 +1,6 @@
+role,trigger,training_contact
+Incident lead,Credible multi-system incident,incident-lead@company.example
+Finance owner,Payment or bank-detail change,finance-owner@company.example
+Privacy lead,Possible personal data exposure,privacy@company.example
+Executive duty manager,Material disruption or loss,duty-manager@company.example
+External bank/police,Confirmed/suspected transfer,Use trainer-provided simulation only

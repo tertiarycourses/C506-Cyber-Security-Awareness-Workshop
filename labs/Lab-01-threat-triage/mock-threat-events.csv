@@ -1,0 +1,6 @@
+event_id,time,asset,observation,business_context
+EVT-001,09:02,FIN-LT-07,Five failed logins then success from unfamiliar IP,Finance user working in Singapore
+EVT-002,09:11,WEB-01,Routine vulnerability scan from approved provider,Change ticket CHG-2044
+EVT-003,09:18,HR-MBX,Inbox rule created to forward payslip emails externally,No approved automation
+EVT-004,09:24,GUEST-WIFI,High streaming traffic,Guest event in meeting room
+EVT-005,09:37,NAS-01,Hundreds of files renamed .locked,Shared project storage

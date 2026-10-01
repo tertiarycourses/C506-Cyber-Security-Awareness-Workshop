@@ -1,0 +1,3 @@
+record_id,name,condition,classification
+P-1001,Demo Patient A,Training allergy note,Confidential — synthetic
+P-1002,Demo Patient B,Training medication note,Confidential — synthetic

@@ -1,0 +1,6 @@
+zone,minimum_hosts,allowed_destinations
+Staff,60,Internet; management proxy
+Guest,100,Internet only
+POS,20,Payment gateway; DNS; time
+Management,14,Admin workstations only
+IoT,30,Vendor update; recorder

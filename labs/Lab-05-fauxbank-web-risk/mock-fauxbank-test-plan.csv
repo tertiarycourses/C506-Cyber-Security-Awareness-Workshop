@@ -1,0 +1,5 @@
+test_id,category,safe_check,expected_secure_outcome,stop_condition
+T01,Authentication,Attempt supplied invalid password once,Generic failure; no user enumeration,Rate limit or unexpected target
+T02,Authorisation,Use two supplied mock roles to view own profile,Each role sees only authorised mock data,Any real or third-party data appears
+T03,Input handling,Enter harmless apostrophe and <demo> string,Input handled safely; no raw execution,Application instability
+T04,Session,Log out then revisit prior mock page,Session no longer grants access,Session affects other users

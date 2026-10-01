@@ -1,0 +1,12 @@
+source-wsq/
+assessment/
+build/
+.DS_Store
+.env
+.env.*
+.claude/
+tmp/
+*.log
+*.zip
+__pycache__/
+labs/**/.DS_Store

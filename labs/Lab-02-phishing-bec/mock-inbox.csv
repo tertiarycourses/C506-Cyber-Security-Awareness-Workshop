@@ -1,0 +1,6 @@
+id,from_name,from_address,reply_to,subject,request,attachment_or_link
+M01,Apex Supplies,billing@apexsupplies.com.sg,billing@apexsupplies.com.sg,August invoice,Normal invoice under existing terms,invoice-0826.pdf
+M02,Apex Supplies,billing@apexsuppIies.com.sg,payments@fastmail.example,URGENT new bank,"Pay USD 184,000 today to new account",bank-details.html
+M03,CEO Office,ceo-office@company.example,ceo-office@company.example,Confidential acquisition,Buy gift cards and send codes,none
+M04,IT Support,support@company.example,support@company.example,MFA registration,Use internal portal bookmark,none
+M05,Courier,delivery@parcel-status.example,delivery@parcel-status.example,Failed delivery,Pay S$1.25 redelivery fee,hxxps://parcel-status.example/pay

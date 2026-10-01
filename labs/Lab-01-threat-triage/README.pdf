@@ -1,0 +1,408 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 6705
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7 Tf 8.4 TL ET
+.372549 .419608 .478431 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (C506 \177 v1.0) Tj T* ET
+BT 1 0 0 1 522.069 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.043137 .145098 .270588 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Lab-01: Threat Triage with the Cybersecurity Simulator) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 755.5354 cm
+Q
+q
+1 0 0 1 57.02362 737.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Course:** Cyber Security Awareness Workshop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 719.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Course code:** C506) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 701.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Time:** 25 minutes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 683.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Alignment:** LO1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 665.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Tool:** [Cybersecurity Simulator]\(https://alfredang.github.io/cybersecuritysimulator/\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 657.5354 cm
+Q
+q
+1 0 0 1 57.02362 633.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.5354 cm
+Q
+q
+1 0 0 1 57.02362 606.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (A small Singapore design agency receives five mixed security alerts. Decide what is benign, suspicious or urgent.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 598.5354 cm
+Q
+q
+1 0 0 1 57.02362 574.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Safety and authorisation boundary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 565.5354 cm
+Q
+q
+1 0 0 1 57.02362 547.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 547.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Use only the named training tool and the mock files in this folder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 529.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 529.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Do not enter real passwords, personal data, payment details or confidential information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 511.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 511.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Do not test any other website, network, account or organisation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 493.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 493.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Stop immediately if the target, data or behaviour differs from the written scope.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 475.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 475.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Prefer reversible actions and preserve synthetic evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 467.5354 cm
+Q
+q
+1 0 0 1 57.02362 443.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Mock data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 434.5354 cm
+Q
+q
+1 0 0 1 57.02362 416.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 416.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (`mock-threat-events.csv`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 408.5354 cm
+Q
+q
+1 0 0 1 57.02362 384.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Detailed procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 375.5354 cm
+Q
+q
+1 0 0 1 57.02362 357.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (1.) Tj /F1 9.2 Tf ( Open mock-threat-events.csv and read all five events before classifying any one event.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 339.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (2.) Tj /F1 9.2 Tf ( Open the Cybersecurity Simulator and select the closest scenario for each event.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 321.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (3.) Tj /F1 9.2 Tf ( For every event, record the asset, threat actor or mechanism, observable signal and potential business impact.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 303.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (4.) Tj /F1 9.2 Tf ( Assign a severity from 1 to 5 using likelihood and impact; explain one uncertainty in your score.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 285.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (5.) Tj /F1 9.2 Tf ( Choose the first safe action: observe, contain, verify with the user, isolate the device, or escalate.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 267.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (6.) Tj /F1 9.2 Tf ( Capture one screenshot of your highest-risk decision and export your completed triage table.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 259.5354 cm
+Q
+q
+1 0 0 1 57.02362 235.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Completion standard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 226.5354 cm
+Q
+q
+1 0 0 1 57.02362 208.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 208.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Completed triage table) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 190.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 190.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Severity rationale) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 172.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 172.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Screenshot of highest-risk decision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 154.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 154.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (One escalation statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 146.5354 cm
+Q
+q
+1 0 0 1 57.02362 122.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Reflection) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 113.5354 cm
+Q
+q
+1 0 0 1 57.02362 95.53543 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (What evidence would make you reverse your decision, and who would need to know?) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260820215944\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260820215944\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (README)
+/Trapped /False
+>>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000341 00000 n 
+0000007098 00000 n 
+0000007139 00000 n 
+0000007246 00000 n 
+0000007358 00000 n 
+trailer
+<<
+/Size 9
+/Root 1 0 R
+/Info 8 0 R
+/ID [ <bf0fb09b9f22157c2c05228e01264845> <bf0fb09b9f22157c2c05228e01264845> ]
+>>
+startxref
+7671
+%%EOF

@@ -1,0 +1,512 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 6977
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7 Tf 8.4 TL ET
+.372549 .419608 .478431 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (C506 \177 v1.0) Tj T* ET
+BT 1 0 0 1 522.069 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 768.5354 cm
+q
+.043137 .145098 .270588 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Lab-10: Integrated Incident Response and Escalation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 755.5354 cm
+Q
+q
+1 0 0 1 57.02362 737.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Course:** Cyber Security Awareness Workshop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 719.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Course code:** C506) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 701.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Time:** 45 minutes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 683.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Alignment:** LO1\226LO3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 665.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Tool:** [Integrated toolkit]\(https://alfredang.github.io/cybersecuritysimulator/\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 657.5354 cm
+Q
+q
+1 0 0 1 57.02362 633.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 624.5354 cm
+Q
+q
+1 0 0 1 57.02362 594.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 14.8 Tm /F1 9.2 Tf 12 TL (A supplier-payment email, endpoint alert and suspicious network connection may form one business-impacting) Tj T* (incident.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 586.5354 cm
+Q
+q
+1 0 0 1 57.02362 562.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Safety and authorisation boundary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 553.5354 cm
+Q
+q
+1 0 0 1 57.02362 535.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 535.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Use only the named training tool and the mock files in this folder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 517.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 517.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Do not enter real passwords, personal data, payment details or confidential information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 499.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 499.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Do not test any other website, network, account or organisation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 481.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 481.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Stop immediately if the target, data or behaviour differs from the written scope.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 463.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 463.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Prefer reversible actions and preserve synthetic evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 455.5354 cm
+Q
+q
+1 0 0 1 57.02362 431.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Mock data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 422.5354 cm
+Q
+q
+1 0 0 1 57.02362 404.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 404.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (`mock-incident-brief.md`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 386.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 386.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (`mock-timeline.csv`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 368.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 368.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (`mock-escalation-contacts.csv`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 350.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 350.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (`mock-risk-register.csv`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 342.5354 cm
+Q
+q
+1 0 0 1 57.02362 318.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Detailed procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 309.5354 cm
+Q
+q
+1 0 0 1 57.02362 279.5354 cm
+q
+BT 1 0 0 1 0 14.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (1.) Tj /F1 9.2 Tf ( Read the incident brief and assign roles: incident lead, evidence recorder, communications lead and business) Tj T* (owner.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 249.5354 cm
+q
+BT 1 0 0 1 0 14.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (2.) Tj /F1 9.2 Tf ( Correlate email, endpoint, identity and network events into one timeline; state which events are facts and which are) Tj T* (hypotheses.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 231.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (3.) Tj /F1 9.2 Tf ( Assess impact to confidentiality, integrity, availability, safety, finance, reputation and legal obligations.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 213.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (4.) Tj /F1 9.2 Tf ( Choose immediate actions that are reversible, evidence-preserving and proportionate to business risk.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 183.5354 cm
+q
+BT 1 0 0 1 0 14.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (5.) Tj /F1 9.2 Tf ( Use the contact matrix to escalate to the correct internal and external parties; do not contact real organisations) Tj T* (during the exercise.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 153.5354 cm
+q
+BT 1 0 0 1 0 14.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (6.) Tj /F1 9.2 Tf ( Deliver a three-minute incident briefing: situation, evidence, impact, actions, decisions required and next update) Tj T* (time.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 135.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (7.) Tj /F1 9.2 Tf ( Complete the mock risk register and one after-action improvement with owner and due date.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 127.5354 cm
+Q
+q
+1 0 0 1 57.02362 103.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Completion standard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 94.53543 cm
+Q
+q
+1 0 0 1 57.02362 76.53543 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 76.53543 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Correlated timeline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 58.53543 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 58.53543 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (CIA and business-impact assessment) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Length 1506
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7 Tf 8.4 TL ET
+.372549 .419608 .478431 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (C506 \177 v1.0) Tj T* ET
+BT 1 0 0 1 522.069 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 778.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 778.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Decision log) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 760.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 760.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Escalation record) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 742.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 742.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Three-minute briefing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 724.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 724.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (After-action improvement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 716.5354 cm
+Q
+q
+1 0 0 1 57.02362 692.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Reflection) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 683.5354 cm
+Q
+q
+1 0 0 1 57.02362 665.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (What evidence would make you reverse your decision, and who would need to know?) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260820215944\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260820215944\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (README)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000007376 00000 n 
+0000007417 00000 n 
+0000007524 00000 n 
+0000007636 00000 n 
+0000007835 00000 n 
+0000009393 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <d7cfce06ae19110b2cb1057b6e9755dd> <d7cfce06ae19110b2cb1057b6e9755dd> ]
+>>
+startxref
+9707
+%%EOF

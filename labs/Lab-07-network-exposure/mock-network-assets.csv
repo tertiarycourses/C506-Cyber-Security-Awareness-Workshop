@@ -1,0 +1,6 @@
+asset,count,trust,data,internet_need
+Staff laptops,45,Medium,Business documents,Outbound only
+Guest devices,60,Untrusted,None,Outbound only
+POS terminals,12,Restricted,Payments,Payment gateway only
+Management servers,8,High,Identity/configuration,No direct
+CCTV/IoT,20,Low,Video/telemetry,Vendor update only

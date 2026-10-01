@@ -1,0 +1,6 @@
+requirement,value
+Event type,FAIL only
+Capture,"timestamp, username, source IP"
+Escalate,3 failures from same source within 60 seconds against disabled/admin account
+Exclude,INFO and SUCCESS
+Review,Quarterly or after log format change

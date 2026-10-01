@@ -1,0 +1,4 @@
+destination,purpose,approved
+10.20.30.53,Internal DNS,Yes
+198.51.100.77,Documentation-only external host,No
+203.0.113.44,Documentation-only external host,No

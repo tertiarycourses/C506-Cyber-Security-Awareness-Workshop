@@ -1,0 +1,6 @@
+time,source,event,status
+09:05,Email,Lookalike supplier domain requests bank change,Fact
+09:11,Endpoint,Document spawned script,Fact
+09:16,Network,Repeated connection to 198.51.100.77,Fact
+09:22,User,Unexpected MFA prompt,Fact
+09:25,Team,Account takeover suspected,Hypothesis

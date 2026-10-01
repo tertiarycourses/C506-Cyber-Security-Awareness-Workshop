@@ -1,0 +1,467 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 2
+/Kids [ 3 0 R 8 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 7021
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7 Tf 8.4 TL ET
+.372549 .419608 .478431 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (C506 \177 v1.0) Tj T* ET
+BT 1 0 0 1 522.069 28.34646 Tm (Page 1) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 746.5354 cm
+q
+.043137 .145098 .270588 rg
+BT 1 0 0 1 0 26 Tm /F2 18 Tf 22 TL (Lab-02: Detect Phishing and Business Email) Tj T* (Compromise) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 733.5354 cm
+Q
+q
+1 0 0 1 57.02362 715.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Course:** Cyber Security Awareness Workshop) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 697.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Course code:** C506) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 679.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Time:** 35 minutes) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 661.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Alignment:** LO1, LO3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 643.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (**Tool:** [Cybersecurity Simulator + Regex Generator]\(https://alfredang.github.io/regexgenerator/\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 635.5354 cm
+Q
+q
+1 0 0 1 57.02362 611.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Scenario) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 602.5354 cm
+Q
+q
+1 0 0 1 57.02362 584.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Accounts staff must detect a lookalike supplier domain before approving a high-value transfer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 576.5354 cm
+Q
+q
+1 0 0 1 57.02362 552.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Safety and authorisation boundary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 543.5354 cm
+Q
+q
+1 0 0 1 57.02362 525.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 525.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Use only the named training tool and the mock files in this folder.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 507.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 507.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Do not enter real passwords, personal data, payment details or confidential information.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 489.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 489.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Do not test any other website, network, account or organisation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 471.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 471.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Stop immediately if the target, data or behaviour differs from the written scope.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 453.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 453.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Prefer reversible actions and preserve synthetic evidence.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 445.5354 cm
+Q
+q
+1 0 0 1 57.02362 421.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Mock data) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 412.5354 cm
+Q
+q
+1 0 0 1 57.02362 394.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 394.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (`mock-inbox.csv`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 376.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 376.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (`mock-approved-domains.csv`) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 368.5354 cm
+Q
+q
+1 0 0 1 57.02362 344.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Detailed procedure) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 335.5354 cm
+Q
+q
+1 0 0 1 57.02362 317.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (1.) Tj /F1 9.2 Tf ( Compare each sender domain in mock-inbox.csv with the approved supplier domains; inspect every character.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 299.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (2.) Tj /F1 9.2 Tf ( Mark persuasion cues such as urgency, authority, secrecy, changed payment details and unusual attachments.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 269.5354 cm
+q
+BT 1 0 0 1 0 14.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (3.) Tj /F1 9.2 Tf ( Use Regex Generator to create a pattern that flags the supplied lookalike-domain examples without matching the) Tj T* (approved domains.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 251.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (4.) Tj /F1 9.2 Tf ( Test the expression on every sample; record true positives, false positives and false negatives.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 233.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (5.) Tj /F1 9.2 Tf ( Draft a safe verification message and a call-back procedure that uses a previously known contact channel.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 215.5354 cm
+q
+BT 1 0 0 1 0 2.8 Tm 12 TL /F2 9.2 Tf .062745 .141176 .243137 rg (6.) Tj /F1 9.2 Tf ( Decide which emails require immediate escalation and name the recipient role, urgency and evidence to include.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 207.5354 cm
+Q
+q
+1 0 0 1 57.02362 183.5354 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Completion standard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 174.5354 cm
+Q
+q
+1 0 0 1 57.02362 156.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 156.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Annotated inbox) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 138.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 138.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Tested regex) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 120.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 120.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Detection test results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 102.5354 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 102.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Independent verification script) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 84.53543 cm
+BT /F1 8 Tf 9.6 TL ET
+0 0 0 rg
+BT 1 0 0 1 -10 4 Tm (\177) Tj T* ET
+Q
+q
+1 0 0 1 65.02362 84.53543 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (Escalation decision) Tj T* ET
+Q
+Q
+q
+1 0 0 1 57.02362 76.53543 cm
+Q
+q
+1 0 0 1 57.02362 52.53543 cm
+q
+.090196 .419608 .529412 rg
+BT 1 0 0 1 0 3 Tm /F2 13 Tf 16 TL (Reflection) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 9 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Length 427
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+BT /F1 7 Tf 8.4 TL ET
+.372549 .419608 .478431 rg
+BT 1 0 0 1 51.02362 28.34646 Tm (C506 \177 v1.0) Tj T* ET
+BT 1 0 0 1 522.069 28.34646 Tm (Page 2) Tj T* ET
+Q
+q
+1 0 0 1 57.02362 787.5354 cm
+Q
+q
+1 0 0 1 57.02362 769.5354 cm
+q
+.062745 .141176 .243137 rg
+BT 1 0 0 1 0 2.8 Tm /F1 9.2 Tf 12 TL (What evidence would make you reverse your decision, and who would need to know?) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+10 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260820215944\05308\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260820215944\05308\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (README)
+/Trapped /False
+>>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000148 00000 n 
+0000000347 00000 n 
+0000007420 00000 n 
+0000007461 00000 n 
+0000007568 00000 n 
+0000007680 00000 n 
+0000007879 00000 n 
+0000008357 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 10 0 R
+/ID [ <fbf3dfe56b9d53a7adc5575647bf12d7> <fbf3dfe56b9d53a7adc5575647bf12d7> ]
+>>
+startxref
+8671
+%%EOF
